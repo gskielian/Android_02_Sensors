@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_02_Sensors</string>
+    <string name="title_text">Sensor Dashboard</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="gravity_label_text">"Gravity: "</string>
+    <string name="gravity_magnitude_text">uninit</string>
+    <string name="acceleration_label_text">"Acceleration: "</string>
+    <string name="acceleration_magnitude_text">uninit</string>
+
+</resources>
